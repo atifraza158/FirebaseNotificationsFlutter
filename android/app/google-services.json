@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "757125260405",
+    "firebase_url": "https://realtimedb-79cfd-default-rtdb.firebaseio.com",
+    "project_id": "realtimedb-79cfd",
+    "storage_bucket": "realtimedb-79cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757125260405:android:a5b98d9d07fb9b3ae3043c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOn7LC2RGbe_IlbATIcerRye649IqKvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757125260405:android:45566f9bfd09e532e3043c",
+        "android_client_info": {
+          "package_name": "com.example.realtime_db"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOn7LC2RGbe_IlbATIcerRye649IqKvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
